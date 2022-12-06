@@ -1,4 +1,4 @@
-# REACT COUNTER
+# REACT COUNTER (learning project)
 
 # Getting Started with Create React App
 
